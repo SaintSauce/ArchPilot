@@ -1,0 +1,2 @@
+# config.py
+RUNNING = False

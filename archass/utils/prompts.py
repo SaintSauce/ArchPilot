@@ -1,6 +1,6 @@
-import utils
+from tools import terminate_program
 
-def process_user_prompt(prompt: str):
+def process_user_prompt(prompt: str) -> str:
     """
     Processes the user's prompt
 
@@ -10,6 +10,6 @@ def process_user_prompt(prompt: str):
 
     # exit Konsole
     if prompt == "exit":
-        utils.exit_from_terminal()
+        terminate_program()
 
     return prompt
