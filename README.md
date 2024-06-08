@@ -23,8 +23,8 @@ Welcome to Arch Assistant, an AI-powered command line tool designed to help soft
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/arch-assistant.git
-cd arch-assistant
+git clone https://github.com/saintsauce/PacGPT.git
+cd PacGPT
 ```
 
 Set up a Python virtual environment and activate it:
@@ -45,7 +45,7 @@ pip install -r requirements.txt
 Start the assistant by running:
 
 ```bash
-python arch_assistant.py
+python wtv.py
 ```
 
 Follow the on-screen prompts to interact with the assistant. Type `help` at any prompt to get assistance on how to use the tool.
@@ -66,7 +66,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Authors
 
-- **Your Name** - *Initial work* - [YourUsername](https://github.com/YourUsername)
+- **Poupi** - *Initial work* - [SaintSauce](https://github.com/SaintSauce)
 
 ## Acknowledgments
 
