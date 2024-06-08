@@ -1,7 +1,6 @@
 import subprocess
 
 def run_command(command: str) -> str:
-    
     """
     Execute a shell command and return its output.
 
@@ -14,6 +13,7 @@ def run_command(command: str) -> str:
 
     Raises:
     subprocess.CalledProcessError: If the command execution fails.
+    
     """
 
     try:

@@ -8,7 +8,7 @@ load_dotenv()
 # Access environment variables
 API_KEY = os.getenv('API_KEY')
 
-# Initialize OpenAI Client
+# # Initialize OpenAI Client
 client = OpenAI(api_key=API_KEY)
 
 completion = client.chat.completions.create(
@@ -19,4 +19,4 @@ completion = client.chat.completions.create(
   ],
 )
 
-print(completion.choices[0].message.value)
+print(completion.choices[0].message.content)
