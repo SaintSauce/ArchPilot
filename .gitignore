@@ -1,5 +1,5 @@
-# config file
+# Ignore config.ini file
 config.ini
 
-# env folder
+# Ignore the entire myenv/ folder
 myenv/
