@@ -1,1 +1,5 @@
+# config file
 config.ini
+
+# env folder
+myenv/
