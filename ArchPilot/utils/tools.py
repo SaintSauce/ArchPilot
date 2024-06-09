@@ -1,7 +1,6 @@
-import config
+import main
 
 from . import commands
-from . import prompts
 
 """
 
@@ -30,4 +29,4 @@ def terminate_program():
     for i in range(5):
         print("          ")
     
-    config.RUNNING = False
+    main.RUNNING = False
