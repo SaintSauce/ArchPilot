@@ -23,8 +23,8 @@ Welcome to Arch Assistant, an AI-powered command line tool designed to help soft
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/saintsauce/PacGPT.git
-cd PacGPT
+git clone https://github.com/saintsauce/ArchPilot.git
+cd ArchPilot
 ```
 
 Set up a Python virtual environment and activate it:
@@ -66,7 +66,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Authors
 
-- **Poupi** - *Initial work* - [SaintSauce](https://github.com/SaintSauce)
+- **Bip Bop Bip** - *Initial work* - [SaintSauce](https://github.com/SaintSauce)
 
 ## Acknowledgments
 
