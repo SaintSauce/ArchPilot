@@ -45,7 +45,7 @@ pip install -r requirements.txt
 Start the assistant by running:
 
 ```bash
-python wtv.py
+python app.py
 ```
 
 Follow the on-screen prompts to interact with the assistant. Type `help` at any prompt to get assistance on how to use the tool.
